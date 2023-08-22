@@ -1,0 +1,76 @@
+Welcome to Our Course
+
+Understand ReactJS Core Features - Absolute Beginner
+Understand ReactJS Core Features - Start Your Journey to Become A Frontend Developer
+
+A complete ReactJS (also known as React.js or ReactJS) beginner course in the Bengali language that will not teach you React but will teach you how to think in React.
+Learn ReactJS (also known as React.js or ReactJS) in your native language (the Bengali language).
+
+React (also known as React.js or ReactJS)
+
+Start Your Frontend Development Journey
+
+React (also known as React.js or ReactJS) is a UI library used to create interactive user interfaces.
+For frontend development using React (also known as React.js or ReactJS), you will need numerous other tools.
+Most tutorials don't focus on React's (also known as React.js or ReactJS) fundamental concepts while teaching complete front-end development.
+As a result of which problems are faced later.
+In this Chunk i.e. in the course we have only emphasized the fundamentals of React (also known as React.js or ReactJS).
+So that you have a good idea about React (also known as React.js or ReactJS) and you can think like React (also known as React.js or ReactJS).
+
+Topics covered in this course:
+
+· Frontend Application
+· Thinking in Component
+· React Component
+· Props & State
+· Styling React App
+· Event Handling
+· Two-Way Data Binding
+· Form & Validation
+· List & Table
+
+There are three more practice projects in this course (i.e. chunk):
+
+· Project One:
+- Tic Tac Toe
+
+· Project Two:
+- Stack Todo (Multi-Functional)
+
+· Project Three:
+- Smart Poll App
+
+This course is going to be a great resource for you!
+But before starting this course you need to ensure a few things (Prerequisites).
+
+Prerequisites before start:
+
+· Must have a good knowledge of JavaScript. Must have working experience with JavaScript basics and ES6 (ECMAScript 6).
+· A little knowledge of ES5 but a good working knowledge of ES6 (ECMAScript 6) is required. ES6 (ECMAScript 6) is actually modern JavaScript.
+· Must have a minimum understanding of HTML, CSS, and Bootstrap. Because you need to know how to design websites before learning frontend frameworks.
+· Since you will be doing front-end development, you should have minimal knowledge of DOM Manipulation.
+
+React (also known as React.js or ReactJS)
+In the end, I will say one thing, React (also known as React.js or ReactJS) is all about JavaScript.
+
+· React (software) - Wikipedia
+https://en.wikipedia.org/wiki/React_(software)
+
+React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript library for building user interfaces based on components.
+It is maintained by Meta (formerly Facebook) and a community of individual developers and companies.
+React can be used to develop single-page, mobile, or server-rendered applications with frameworks like Next.js.
+Because React is only concerned with the user interface and rendering components to the DOM,
+React applications often rely on libraries for routing and other client-side functionality.
+
+· React
+https://react.dev/
+
+The library for web and native user interfaces
+
+Reference websites:
+
+· React (Website)
+https://react.dev/
+
+· Repository (GitHub)
+https://github.com/facebook/react
