@@ -1,0 +1,52 @@
+4. How Does ReactJS Work
+
+How Does React (also known as React.js or ReactJS) Work?
+
+At First Recap Our Previous Knowledge (diagram_1.png):
+
+How Do We Design Traditional Website?
+· HTML
+· CSS
+· JavaScript
+
+ReactJS Works Totally Differently
+
+Everything in ReactJS is A Component
+
+The Component is A Small Piece of UI (diagram_2.png):
+
+✔ We can reuse it
+✔ We can use it with other components
+✔ We can pass data to it from outside
+✔ It can have its own data
+✔ It can be styled separately
+✔ It can be used as many times as we want
+
+Component Composition (diagram_3.png)
+· Main Component
+· Component A
+· Component B
+· Component C
+
+What's Inside The Component? (diagram_4.png):
+
+Component has Two Main Layer -
+✔ Data Layer
+✔ Representation Layer
+
+· Component
+
+Data Layer:
+All Logic Goes Here, Our Task is Anyhow Change The Data
+
+Representation Layer:
+This is Just Static HTML, When Data Change, It will Update Automatically
+
+In React, Our Responsibility is to Create A Static View For Small Pieces of UI and Change The Data Anyhow.
+Rest of The Thing React will Do For Us.
+
+How can We Use Multiple Components? (diagram_5.png)
+
+It's Easy, The Representation Layer of A Component can Render Other Components
+
+Component Tree to Visualize Our App (diagram_6.png)
