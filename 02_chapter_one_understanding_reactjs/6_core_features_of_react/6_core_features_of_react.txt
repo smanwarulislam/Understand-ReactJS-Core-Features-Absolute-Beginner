@@ -1,0 +1,12 @@
+6. Core Features of React
+
+In This Chunk, We will Focus on Only Core Features (React)
+
+✔ Components
+✔ Props (short for properties) & State
+✔ Events
+✔ Conditional Rendering
+✔ Lists & Tables
+✔ Forms & Input Elements
+✔ Lifting State Up
+✔ Composition & Component Tree
