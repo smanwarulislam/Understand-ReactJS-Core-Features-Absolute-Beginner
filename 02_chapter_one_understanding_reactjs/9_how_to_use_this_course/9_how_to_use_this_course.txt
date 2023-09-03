@@ -1,0 +1,21 @@
+9. How to Use This Course
+
+Different Types of Content:
+· ARTICLE
+· VIDEO
+· REFERENCE
+· QUIZZES
+
+Architecture of This Chunk:
+· Start React
+· Environment Setup
+· Components & Props (short for properties)
+· React State
+· Events
+· Lists
+· Tables
+· Forms
+
+Each Chapter Contains Projects & Practices
+and Finally
+A Big Project to Cover All We Have Learned So Far
