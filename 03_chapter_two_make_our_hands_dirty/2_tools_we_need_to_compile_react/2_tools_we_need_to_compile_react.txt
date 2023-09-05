@@ -1,0 +1,15 @@
+2. Tools We Need to Compile React
+
+Tools We Need to Compile React Code
+
+Why do We Need Other Tools?
+
+✔ React Uses Modern JavaScript
+✔ Some Syntaxes are Not Relevant To JavaScript;
+e.g., JSX (JavaScript Syntax Extension and occasionally referred to as JavaScript XML)
+✔ Performance Optimization
+✔ Development Experience
+
+Two Main Tools We Need -
+· Babel (transcompiler) or Babel.js
+· Webpack
