@@ -1,0 +1,62 @@
+10. What We have Learned So Far?
+
+QUESTION 1 OF 5
+1. ReactJS এর এনভায়রনমেন্ট সেটআপ এর জন্য কোনটি দরকার নেই?
+Choose only ONE best answer.
+
+(A) Node.js
+(B) Babel.js
+(C) PIP
+(D) Webpack
+
+Answer:
+(C) PIP
+
+QUESTION 2 OF 5
+2. নিচের কোনটি কোড অপটিমাইজেশনের কাজ করে থাকে?
+Choose only ONE best answer.
+
+(A) Node.js
+(B) Webpack
+(C) Babel.js
+(D) Create App
+
+Answer:
+(B) Webpack
+
+QUESTION 3 OF 5
+3. কেন আমরা Babel.js ব্যবহার করে থাকি?
+Choose ALL answers that apply.
+
+(A) কোড অপ্টিমাইজ করার জন্য
+(B) জাভাস্ক্রিপ্ট ল্যাঙ্গুয়েজ কে কম্পাইল করার জন্য
+(C) ReactJS এর সিনট্যাক্স জাভাস্ক্রিপ্ট এ কনভার্ট করার জন্য
+(D) লাইভ রিলোড দেখার জন্য
+
+Answer:
+(B) জাভাস্ক্রিপ্ট ল্যাঙ্গুয়েজ কে কম্পাইল করার জন্য
+(C) ReactJS এর সিনট্যাক্স জাভাস্ক্রিপ্ট এ কনভার্ট করার জন্য
+
+QUESTION 4 OF 5
+4. কোন টুলস টি ছাড়া আমাদের অ্যাপ্লিকেশন রান করবে না?
+Choose only ONE best answer.
+
+(A) Node.js
+(B) Babel.js
+(C) Git
+(D) Webpack
+
+Answer:
+(A) Node.js
+
+QUESTION 5 OF 5
+5. নিচের কোন ফাইল বা ডিরেক্টরি কে আমরা .gitignore ফাইলে রাখবো?
+Choose only ONE best answer.
+
+(A) Node.js Modules (node_modules)
+(B) src/index.js
+(C) package.json
+(D) webpack.config.js
+
+Answer:
+(A) Node.js Modules (node_modules)
