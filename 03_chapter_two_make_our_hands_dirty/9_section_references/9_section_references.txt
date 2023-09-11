@@ -1,0 +1,19 @@
+9. Section References
+
+Other Recommended Tutorials:
+
+https://www.youtube.com/watch?v=PhuwlYrd-XU
+
+Official Website Link of These Tools:
+
+· Create App -
+https://createapp.dev/
+
+· Webpack -
+https://webpack.js.org/
+
+· Babel (also known as Babel.js) -
+https://babeljs.io/
+
+· Node.js -
+https://nodejs.org/en
