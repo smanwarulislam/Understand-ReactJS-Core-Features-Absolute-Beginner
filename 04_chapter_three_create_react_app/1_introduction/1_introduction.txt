@@ -1,0 +1,11 @@
+1. Introduction
+
+Chapter Three: Installing Create React App
+
+What We Are Going to Learn?
+
+We are going to learn -
+
+✔ Create React App - React CLI
+✔ React Project Structure
+✔ Start Our Journey with React
