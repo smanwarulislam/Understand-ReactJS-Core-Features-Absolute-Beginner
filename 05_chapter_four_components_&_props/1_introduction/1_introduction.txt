@@ -1,0 +1,11 @@
+1. Introduction
+
+Chapter Four: Components & Props
+
+What We Are Going to Learn?
+
+We are going to learn -
+
+✔ Understanding & Working with Components
+✔ Understanding & Working with JSX (JavaScript Syntax Extension and occasionally referred to as JavaScript XML)
+✔ Understanding & Working with Props
