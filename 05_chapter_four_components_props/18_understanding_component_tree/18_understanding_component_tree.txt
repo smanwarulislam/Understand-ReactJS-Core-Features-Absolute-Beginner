@@ -1,0 +1,29 @@
+18. Understanding Component Tree
+
+আপনি যদি একটু ভালোভাবে লক্ষ্য করেন তাহলে দেখবেন React (also known as React.js or ReactJS) এর কম্পোনেন্ট গুলো একটা ট্রি ডেটা স্ট্রাকচারের মতো ব্যবহার করে।
+Parent Component কে আপনি এই ট্রি এর রুট বা মূল ধরতে পারেন। আর Child Component গুলো ব্রাঞ্চ বা শাখা প্রশাখা।
+আপনি খুব সহজেই Parent Component থেকে Child Component এর কাছে Props এর মাধ্যমে ডেটা পাস করতে পারবেন।
+কিন্তু কখনোই Child Component থেকে Props এর মাধ্যমে Parent Component এর কাছে ডেটা পাস করতে পারবেন না।
+
+যে কোন Component বানানোর পূর্বে আপনাকে বড় কম্পোনেন্ট টাকে বের করে নিতে হবে। তারপরে সেখান থেকে আর ছোট কি কি Component বের করা যায় সেটা নিয়ে ভাবতে হবে।
+যেহেতু Child Component থেকে ডেটা Parent Component এ পাঠানো যায় না,
+তাই আমাদেরকে Component এর মেইন ডেটাটা Parent Component এর ভিতরে রাখতে হবে এবং Props আকারে Child Component এ পাস করতে হবে।
+Child Component থেকে ডেটা Parent Component এ পাস করা না গেলেও আমরা Child Component থেকে Parent Component এর যে কোন ফাংশন কল করতে পারি।
+আর এভাবেই আমরা Parent Component এর ডেটা পরিবর্তন করতে পারবো।
+সেক্ষেত্রে Parent Component এ ডেটা পরিবর্তন করার জন্য প্রয়োজনীয় ফাংশন তৈরি করে রাখতে হবে এবং যখন Child Component টা কল করা হবে তখন Props আকারে ফাংশনগুলোকে Child এর কাছে পাঠিয়ে দিতে হবে।
+প্রয়োজন অনুসারে Child Component ফাংশনগুলোকে কল করবে, এবং Parent Component এ ডেটা পরিবর্তন হয়ে যাবে।
+
+আপনারা যদি আমাদের এক্সাম্পল এর দিকে লক্ষ্য করেন তাহলে দেখবেন, আমরা প্রথমে বড় একটা Component বানাই যার নাম দেই Profile.
+পরে এই বড় Component কে ছোট ছোট অনেকগুলো Component এ ভাগ করে ফেলি।
+মেইন ডেটাগুলো আমরা Parent Component মানে Profile Component এর ভিতরেই রাখি এবং Props এর মাধ্যমে Child Component গুলোর কাছে পাঠিয়ে দেই।
+Child Component গুলোকে সব সময় Loosely Coupled করার চেষ্টা করবেন যেন অন্য যে কোনো Component থেকে এই Component গুলোকে ব্যবহার করা যায়।
+
+আমাদের এক্সাম্পল এ Profile Component টা হচেছ Parent Component বা ট্রি এর রুট। এর তিনটা Child Component বা শাঁখা আছে।
+
+  · Bio Component
+  · Skills Component
+  · Links Component
+
+এই শাঁখা Component গুলোর আবার অসংখ্য প্রশাখা Component থাকতে পারে।
+তবে Component Design করার পূর্বে অবশ্যই Component এর জন্য একটা ট্রি ডিজাইন করে নিবেন।
+তাহলে Component টা বানাতে বা কিভাবে Child Component এর কাছে ডেটা পাস করবেন সেই বিষয়টা ভাবতে অথবা কোন Component এর কাছে মেইন ডেটাগুলো রাখবেন সেগুলো সিদ্ধান্ত নিতে কোন সমস্যা হবে না।
