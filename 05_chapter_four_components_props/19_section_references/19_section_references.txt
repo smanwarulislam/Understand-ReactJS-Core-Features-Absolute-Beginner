@@ -1,0 +1,18 @@
+19. Section References
+
+এই সেকশনটা খুবই গুরুত্বপূর্ণ একটা সেকশন।
+এখানে React (also known as React.js or ReactJS) এর সব থেকে গুরুত্বপূর্ণ তিনটা বিষয় নিয়ে আলোচনা করা হয়েছে।
+এই বিষয়গুলো ক্ষুদ্রতম থেকে শুরু করে বৃহৎ সব অ্যাপ্লিকেশনের জন্য মুখ্য বিষয়।
+তাই খুব ভালো করে বিষয়গুলো আয়ত্ত করতে হবে।
+
+এই সেকশনে আমরা আলোচনা করেছি -
+
+· Components
+· Class-Based / Stateful / Smart Component
+· Functional / Stateless / Dumb Component
+· Component Tree
+· JSX - JavaScript Syntax Extension occasionally referred to as JavaScript XML
+· Props (short for "properties")
+
+উপরুক্ত বিষয়গুলো ভালোভাবে বোঝার জন্য আমরা কিছু প্র্যাকটিস প্রব্লেম দিয়ে দিচ্ছি, সেই প্রব্লেমগুলো সমাধান করতে পারেন।
+আর রেফারেন্স হিসেবে React (also known as React.js or ReactJS) এর অফিসিয়াল সাইটটাই ব্যবহার করতে পারেন।
