@@ -1,0 +1,124 @@
+21. What We have Learned So Far?
+
+QUESTION 1 OF 10
+১। Component বানানোর উপায় না কোনটা?
+Choose only ONE best answer.
+
+(A) Class
+(B) Function
+(C) Interface
+
+Answer:
+(C) Interface
+
+QUESTION 2 OF 10
+২। Class ব্যবহার করে Component বানালে তাকে কি বলে?
+Choose only ONE best answer.
+
+(A) Functional Component
+(B) Dumb Component
+(C) Stateful Component
+(D) Higher Order Component
+
+Answer:
+(C) Stateful Component
+
+QUESTION 3 OF 10
+৩। Child Component থেকে Parent Component এ কোনটা পাঠানো যায়?
+Choose only ONE best answer.
+
+(A) Function
+(B) Array
+(C) Props
+(D) None of The Above
+
+Answer:
+(D) None of The Above
+
+QUESTION 4 OF 10
+৪। Component Reuse করার জন্য কোনটা ব্যবহার করা হয়?
+Choose only ONE best answer.
+
+(A) Functional Component
+(B) JSX
+(C) Props
+(D) Class
+
+Answer:
+(C) Props
+
+QUESTION 5 OF 10
+৫। Class Based Component কে Smart Component বলা হয় কেন?
+Choose only ONE best answer.
+
+(A) Own State
+(B) Lifecycle Methods
+(C) Re-render Components
+(D) All of The Above
+
+Answer:
+(D) All of The Above
+
+QUESTION 6 OF 10
+৬। True, False, Null - JSX এ কি রেন্ডার করবে?
+Choose only ONE best answer.
+
+(A) True
+(B) Error
+(C) Ignored By Browser
+(D) Undefined
+
+Answer:
+(C) Ignored By Browser
+
+QUESTION 7 OF 10
+৭। JSX এর ভিতরে কোন জাভাস্ক্রিপ্ট ফিচারটা ব্যবহার করা যাবে?
+Choose ALL answers that apply.
+
+(A) "for" Loop
+(B) Arrow Function
+(C) "if-else" Statement
+(D) Function
+(E) Conditional (ternary) Operator
+(F) Invoke A Function
+
+Answer:
+(B) Arrow Function
+(E) Conditional (ternary) Operator
+(F) Invoke A Function
+
+QUESTION 8 OF 10
+৮। ReactJS এর Component গুলো কোন ডেটা স্ট্রাকচারের মতো কাজ করে?
+Choose only ONE best answer.
+
+(A) Linked List
+(B) Tree Data Structure
+(C) Graph Data Structure
+(D) Stack Data Structure
+
+Answer:
+(B) Tree Data Structure
+
+QUESTION 9 OF 10
+৯। JSX আসলে কি?
+Choose only ONE best answer.
+
+(A) New Language
+(B) HTML
+(C) Extended JavaScript Syntax (JavaScript Syntax Extension)
+(D) React Component
+
+Answer:
+(C) Extended JavaScript Syntax (JavaScript Syntax Extension)
+
+QUESTION 10 OF 10
+১০। কখন একটা Component এর ক্লোজিং ট্যাগ ব্যবহার করা হয়?
+Choose only ONE best answer.
+
+(A) When Calling A Component
+(B) When Passing Props
+(C) When Component Contains Children
+(D) When Passing Functions
+
+Answer:
+(C) When Component Contains Children
