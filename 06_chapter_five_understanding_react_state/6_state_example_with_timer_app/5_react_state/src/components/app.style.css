@@ -1,0 +1,31 @@
+/* .App {
+  width: fit-content;
+  margin: 0 auto;
+  font-family: Arial, Helvetica, sans-serif;
+} */
+
+.Heading {
+  text-align: center;
+  font-weight: 300;
+  margin-bottom: 50px;
+}
+
+.Container {
+  width: 100%;
+  text-align: center;
+}
+
+.Btn {
+  width: 100px;
+  margin: 10px 20px;
+  padding: 10px 20px;
+  background-color: white;
+  border: 1px solid gray;
+  color: #222;
+}
+
+.Text {
+  font-size: 40px;
+  font-weight: bold;
+  margin: 0px 20px;
+}
