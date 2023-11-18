@@ -1,0 +1,62 @@
+9. What We have Learned So Far?
+
+QUESTION 1 OF 5
+State অবজেক্টটা আসছে কোথা থেকে?
+Choose only ONE best answer.
+
+(A) কম্পোনেন্টের ভিতরে আমরা তৈরি করছি
+(B) Component ক্লাস থেকে আসছে
+(C) React ইম্পোর্ট করার কারণে আসছে
+(D) ES6 ক্লাস থেকে আসছে
+
+Answer:
+(B) Component ক্লাস থেকে আসছে
+
+QUESTION 2 OF 5
+React এ State আসলে কি?
+Choose only ONE best answer.
+
+(A) Object
+(B) Immutable Class Property
+(C) Mutable Class Property
+(D) Function
+(E) Lifecycle Methods
+
+Answer:
+(B) Immutable Class Property
+
+QUESTION 3 OF 5
+আমরা যদি জাভাস্ক্রিপ্ট অবজেক্ট এর মতো করে State আপডেট করি তাহলে কি ঘটবে?
+Choose only ONE best answer.
+
+(A) Throw Error
+(B) সঠিকভাবে কাজ করবে
+(C) ভিউ পরিবর্তন হবে না
+(D) State এর ভ্যালু পরিবর্তন হবে না
+
+Answer:
+(C) ভিউ পরিবর্তন হবে না
+
+QUESTION 4 OF 5
+setState ফাংশনটার ভিতরে দ্বিতীয় আর্গুমেন্ট কখন ব্যবহার করবো?
+Choose only ONE best answer.
+
+(A) সব সময়
+(B) State এর আগের ভ্যালু পেতে চাইলে
+(C) State আপডেট এর পরেই কোন কিছু করতে চাইলে
+(D) ভিউ পরিবর্তিত করতে চাইলে
+
+Answer:
+(C) State আপডেট এর পরেই কোন কিছু করতে চাইলে
+
+QUESTION 5 OF 5
+অনেকসময় State পরিবর্তন হওয়ার পরেও console এ আমরা আগের ভ্যালু দেখতে পাই, কেন?
+Choose only ONE best answer.
+
+(A) React এভাবেই কাজ করে
+(B) setState Synchronous
+(C) setState Asynchronous
+(D) State immutable
+
+Answer:
+(C) setState Asynchronous
