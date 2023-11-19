@@ -1,0 +1,11 @@
+1. Introduction
+
+Chapter Six: Understanding Styles in React
+
+What We Are Going to Learn?
+
+We are going to learn -
+
+✔ How to Style React Apps
+✔ Which is The Best Method to Style
+✔ Styles in Action
