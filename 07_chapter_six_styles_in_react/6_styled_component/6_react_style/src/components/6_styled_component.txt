@@ -1,0 +1,14 @@
+6. Styled Component
+
+There are four main methods of styling the React app
+- Inline CSS
+- CSS Class
+- CSS Modules
+- JSS (Styled Components)
+
+· JSS (Styled Components)
+styled-components (website):
+https://styled-components.com/
+
+styled-components (GitHub):
+https://github.com/styled-components/styled-components
