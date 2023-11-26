@@ -1,0 +1,49 @@
+8. What We have Learned So Far?
+
+QUESTION 1 OF 4
+React এর ডিফল্ট স্টাইলিং সিস্টেম কোনটি?
+Choose only ONE best answer.
+
+(A) Inline CSS
+(B) CSS Modules
+(C) External CSS
+(D) JSS
+
+Answer:
+(A) Inline CSS
+
+QUESTION 2 OF 4
+Inline CSS এ কোনটি করা যায় না?
+Choose only ONE best answer.
+
+(A) Background Color
+(B) Image Style
+(C) Text Transform
+(D) Pseudo Class
+
+Answer:
+(D) Pseudo Class
+
+QUESTION 3 OF 4
+External CSS এর সমস্যা কোথায়?
+Choose only ONE best answer.
+
+(A) React সাপোর্ট করে না
+(B) Scoped না
+(C) Media Query লেখা যায় না
+(D) Key Frame সাপোর্ট করে না
+
+Answer:
+(B) Scoped না
+
+QUESTION 4 OF 4
+External CSS এবং CSS Modules এর মধ্যে পার্থক্য কোথায়?
+Choose only ONE best answer.
+
+(A) CSS Modules নতুন CSS library
+(B) CSS Modules Webpack দিয়ে প্রসেস হয়
+(C) External CSS এ Media Query লেখা যায় না
+(D) React External CSS সাপোর্ট করে না
+
+Answer:
+(B) CSS Modules Webpack দিয়ে প্রসেস হয়
