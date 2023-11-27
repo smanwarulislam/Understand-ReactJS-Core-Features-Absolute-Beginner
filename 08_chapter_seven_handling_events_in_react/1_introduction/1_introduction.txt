@@ -1,0 +1,11 @@
+1. Introduction
+
+Chapter Seven - Understanding Events in React
+
+What We Are Going to Learn?
+
+We are going to learn -
+
+✔ What is Event
+✔ How to Handle Events in React
+✔ Some Basic Events in React
