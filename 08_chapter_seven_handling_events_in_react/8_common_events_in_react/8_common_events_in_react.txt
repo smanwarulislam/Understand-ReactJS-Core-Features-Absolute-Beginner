@@ -1,0 +1,126 @@
+8. Common Events in React
+
+React (also known as React.js or ReactJS) এ Native DOM ইভেন্টস গুলো ব্যবহার না করে সাধারণ SyntheticEvents ব্যবহার করা হয়।
+আসলে দুইটা ইভেন্টের ভিতরে তেমন কোন পার্থক্যই নেই।
+শুধুমাত্র SyntheticEvents এর ক্ষেত্রে Cross Browser সাপোর্টটা আমরা পেয়ে থাকি।
+React এর Synthetic Events গুলো হলো -
+
+  · Clipboard Events
+    · onCopy
+    · onCut
+    · onPaste
+
+  · Composition Events
+    · onCompositionStart
+    · onCompositionUpdate
+    · onCompositionEnd
+
+  · Keyboard Events
+    · onKeyDown
+    · onKeyUp
+    · onKeyPress
+
+  · Focus Events
+    · onFocus
+    · onBlur
+
+  · Form Events
+    · onChange
+    · onInput
+    · onInvalid
+    · onReset
+    · onSubmit
+
+  · Generic Events
+    · onError
+    · onLoad
+
+  · Mouse Events
+    · onClick
+    · onContextMenu
+    · onDoubleClick
+    · onDrag
+    · onDragEnd
+    · onDragEnter
+    · onDragExit
+    · onDragLeave
+    · onDragOver
+    · onDragStart
+    · onDrop
+    · onMouseDown
+    · onMouseEnter
+    · onMouseLeave
+    · onMouseMove
+    · onMouseOut
+    · onMouseOver
+    · onMouseUp
+
+  · Pointer Events
+    · onPointerDown
+    · onPointerMove
+    · onPointerUp
+    · onPointerCancel
+    · onGotPointerCapture
+    · onLostPointerCapture
+    · onPointerEnter
+    · onPointerLeave
+    · onPointerOver
+    · onPointerOut
+
+  · Selection Events
+    · onSelect
+
+  · Touch Events
+    · onTouchCancel
+    · onTouchEnd
+    · onTouchMove
+    · onTouchStart
+
+  · UlEvents
+    · onScroll
+
+  · Wheel Events
+    · onWheel
+
+  · Media Events
+    · onAbort
+    · onCanPlay
+    · onCanPlayThrough
+    · onDurationChange
+    · onEmptied
+    · onEncrypted
+    · onEnded
+    · onError
+    · onLoadedData
+    · onLoadedMetadata
+    · onLoadStart
+    · onPause
+    · onPlay
+    · onPlaying
+    · onProgress
+    · onRateChange
+    · onSeeked
+    · onSeeking
+    · onStalled
+    · onSuspened
+    · onTimeUpdate
+    · onVolumeChange
+    · onWaiting
+
+  · Image Events
+    · onLoad
+    · onError
+
+  · Animation Events
+    · onAnimationStart
+    · onAnimationEnd
+    · onAnimationIteration
+
+  · Transition Events
+    · onTransitionEnd
+
+  · Other Events
+    · onToggle
+
+React (also known as React.js or ReactJS) এর Synthetic Events গুলো সম্পর্কে আরও বিস্তারিত জানতে React এর অফিসিয়াল ডকুমেন্টেশনটি খেয়াল করুন -
+https://react.dev/learn/responding-to-events
