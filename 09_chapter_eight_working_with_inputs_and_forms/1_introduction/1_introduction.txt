@@ -1,0 +1,14 @@
+1. Introduction
+
+Chapter Eight: Input Elements & Forms
+
+What We Are Going to Learn?
+
+We are going to learn -
+
+✔ Basic Input Elements
+✔ Checkbox and Radio Buttons
+✔ Controlled and Uncontrolled Forms
+✔ Create Forms in React
+✔ Form Validation
+✔ State Lifting
