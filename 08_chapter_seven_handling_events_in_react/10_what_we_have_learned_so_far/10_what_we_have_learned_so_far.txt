@@ -1,0 +1,49 @@
+10. What We have Learned So Far?
+
+QUESTION 1 OF 4
+Event হ্যান্ডেল করার জন্য নিচের কোনটির দরকার নেই -
+Choose only ONE best answer.
+
+(A) ইভেন্ট নেম
+(B) হ্যান্ডেলার ফাংশন
+(C) ইভেন্ট অবজেক্ট
+(D) টার্গেট এলিমেন্ট
+
+Answer:
+(C) ইভেন্ট অবজেক্ট
+
+QUESTION 2 OF 4
+Event এর হ্যান্ডেলার ফাংশন আর্গুমেন্ট আকারে কি পেয়ে থাকে?
+Choose only ONE best answer.
+
+(A) String
+(B) Event Handler
+(C) Event Object
+(D) Callback Function
+
+Answer:
+(C) Event Object
+
+QUESTION 3 OF 4
+Two-Way Data Binding এর ক্ষেত্রে কি হয়?
+Choose only ONE best answer.
+
+(A) ডেটা ইনপুট হয়
+(B) ডেটা আউটপুট হয়
+(C) ভ্যালু সেম স্টেট এর সাথে বাইন্ড থাকে
+(D) হ্যান্ডেলার ফাংশন দরকার পড়ে না
+
+Answer:
+(C) ভ্যালু সেম স্টেট এর সাথে বাইন্ড থাকে
+
+QUESTION 4 OF 4
+চেকবক্স এর সাথে আপনি কোন ইভেন্টটি ব্যবহার করবেন?
+Choose only ONE best answer.
+
+(A) Change Event
+(B) Click Event
+(C) Double Click Event
+(D) Mouse Enter Event
+
+Answer:
+(A) Change Event
