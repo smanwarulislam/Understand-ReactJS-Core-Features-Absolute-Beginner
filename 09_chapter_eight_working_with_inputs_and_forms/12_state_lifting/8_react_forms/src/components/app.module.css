@@ -1,0 +1,20 @@
+.Wrapper {
+  width: 500px;
+  margin: 0 auto;
+  padding: 10px 0;
+}
+
+.Heading {
+  font-size: 25px;
+  font-weight: 300;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #222222;
+  margin: 0;
+  text-align: center;
+}
+
+.Signup {
+  font-size: 38px;
+  font-weight: 500;
+  font-family: Arial, Helvetica, sans-serif;
+}
