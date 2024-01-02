@@ -27,7 +27,7 @@ class App extends React.Component {
   };
 
   createUser = user => {
-    user.id = new Date().getTime().toString;
+    user.id = new Date().getTime().toString();
     this.setState({ 
       users: [...this.state.users, user] 
     });
@@ -46,11 +46,11 @@ class App extends React.Component {
         <SignupForm createUser={this.createUser} />
 
         <div>
-          <h3 className="mt-5 mb-3">All Registered Users</h3>
+          <h3 className="mt-5 mb-5">All Registered Users</h3>
           <ul className="list-group">
             {this.state.users.map(user => (
               <li key={user.id} className="list-group-item">
-                {user.name} -> {user.email}
+                {user.name} {'->'} {user.email}
               </li>
             ))}
           </ul>
